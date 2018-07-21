@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'mptt',
 
     'mortymart',
+    'universe',
     'comments',
 ]
 
